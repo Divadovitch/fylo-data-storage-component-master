@@ -11,10 +11,6 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on frontend mentor](https://your-solution-url.com)
-- Live Site URL: [Live preview](https://your-live-site-url.com)
+- Solution URL: [Solution on frontend mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-flex-and-grid-5y_2KNFDDb)
+- Live Site URL: [Live preview](https://divadovitch.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
@@ -49,14 +45,3 @@ Start the mobile version first than the desktop version with a media query.
 ### What I learned
 
 To use the border of ``::after`` pseudo-element to create a triangle, to adapt the position of an object thanks to the ``position:absolute`` property placed on the child and ``position:relative`` placed on the parent. 
-
-
-### Continued development
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
